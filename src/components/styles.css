@@ -67,3 +67,13 @@ footer {
   text-align: center;
   font-family: 'Roboto', sans-serif;
 }
+
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.link:hover {
+  text-decoration: underline;
+  color: red;
+}
