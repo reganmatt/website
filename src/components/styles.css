@@ -41,6 +41,20 @@ div {
   background-color: rgba(0, 21, 255, 1);
 }
 
+.home-page {
+  text-align: center;
+}
+
+.image-container {
+  margin-bottom: 20px;
+}
+
+.profile-image {
+  max-width: 500px;
+  height: auto;
+}
+
+
 nav ul li a {
   color: #ffffff;
   text-decoration: none;
