@@ -52,6 +52,7 @@ div {
 .profile-image {
   max-width: 500px;
   height: auto;
+  border: 20px solid white;
 }
 
 
