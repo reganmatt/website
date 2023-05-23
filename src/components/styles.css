@@ -1,13 +1,13 @@
 body {
   /* light */
   /*background-color: #4b6a00;*/
-  background-color: rgb(214, 151, 3);
+  background-color: rgba(0, 21, 255, 0.948);
   /* dark */
   /*background-color: #1f1f1f; */
 }
 
 header {
-  background-color: rgb(214, 151, 3);
+  background-color: rgba(0, 21, 255, 0.948);
   color: #1c20ff;
   padding: 20px;
   text-align: center;
@@ -15,7 +15,7 @@ header {
 }
 
 nav {
-  background-color: rgb(214, 151, 3);
+  background-color: rgba(0, 21, 255, 0.948);
   color: #050794;
   padding: 20px;
 }
@@ -61,7 +61,7 @@ p {
 }
 
 footer {
-  background-color: rgb(214, 151, 3);
+  background-color: rgba(0, 21, 255, 0.948);
   color: #1c20ff;
   padding: 20px;
   text-align: center;
